@@ -1,0 +1,6 @@
+id,fullName,photoUrl,assignedStore,status
+EMP001,John Doe,https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop,STORE-001,active
+EMP002,Jane Smith,https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop,STORE-001,active
+EMP003,Michael Johnson,https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop,STORE-002,active
+EMP004,Sarah Williams,https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop,STORE-002,active
+EMP005,David Brown,https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&h=400&fit=crop,STORE-003,active
